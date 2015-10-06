@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Plum Yoga</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">call</string>
+    <string name="action_settings2">email</string>
+    <string name="action_settings3">facebook</string>
+    <string name="action_settings4">instagram</string>
+    <string name="action_settings5">twitter</string>
+    <string name="action_settings6">pinterest</string>
+</resources>
